@@ -22,3 +22,14 @@ A thematic map is used to classify a geographical area. Each zone is associated 
 Below is an example of a thematic map from Lombardia, an Italian region. Each pixel stores a value between 0 and 6 depending on the class:
 ![theamatic map](https://github.com/moulik13/Project_NPA_NIC/assets/74233936/51010f37-d4e2-4a55-87f4-c63bc8706ab4)
 
+# custom data set 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |              
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
