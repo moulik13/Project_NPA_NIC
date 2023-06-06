@@ -34,3 +34,4 @@ there shoud be **Feature** in the table which we will predict
 3. profit
 4. cost of living at that location 
 5. Family size 
+6. inflation rate 
