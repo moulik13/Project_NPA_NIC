@@ -25,3 +25,5 @@ Below is an example of a thematic map from Lombardia, an Italian region. Each pi
 # custom data set 
 
 ![customNPA](https://github.com/moulik13/Project_NPA_NIC/assets/74233936/29798ae1-cc01-40e6-b368-a62244824a6d)
+
+there shoud be **Feature** in the table which we will predict 
