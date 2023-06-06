@@ -13,7 +13,7 @@
 1. Land holding of the farmer (small_farmer,medium_farmer,large_farmer)
 2. According to agro climatic condition (UNI_irrigated , SEMI_irrigated , FULLY_irrigated)
 3. No. of crops in a one crop year (MONO_cropping , DOUBLE_cropping , MULTI_cropping)
-4. According to farming (traditional_farming , specialized farming , commercial farming , mixed farming)
+4. According to farming (traditional_farming , specialized farming , commercial farming , mixed farming)   **(ToF)**
 
 ### use of **Raster** as Thematic map
 Thematic map
@@ -23,13 +23,4 @@ Below is an example of a thematic map from Lombardia, an Italian region. Each pi
 ![theamatic map](https://github.com/moulik13/Project_NPA_NIC/assets/74233936/51010f37-d4e2-4a55-87f4-c63bc8706ab4)
 
 # custom data set 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |              
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+[NPA farmer.pdf](https://github.com/moulik13/Project_NPA_NIC/files/11662490/NPA.farmer.pdf)
