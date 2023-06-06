@@ -9,7 +9,7 @@ This score will tell the probability that how much percentage a person will beco
 
 ## Project Overview 
 * Feature selection will be done firstly 
-* scarping of data or dummy data will be created in python 
+* scarping of data or custom data will be created in python 
 * relationship between features will be done (weather to group them or not)
 * Model will be selected (ensemble learning,or something else)
 * model implementation will be done and accurancy of the result will be analysed
