@@ -23,4 +23,5 @@ Below is an example of a thematic map from Lombardia, an Italian region. Each pi
 ![theamatic map](https://github.com/moulik13/Project_NPA_NIC/assets/74233936/51010f37-d4e2-4a55-87f4-c63bc8706ab4)
 
 # custom data set 
-[NPA farmer.pdf](https://github.com/moulik13/Project_NPA_NIC/files/11662490/NPA.farmer.pdf)
+
+![customNPA](https://github.com/moulik13/Project_NPA_NIC/assets/74233936/29798ae1-cc01-40e6-b368-a62244824a6d)
