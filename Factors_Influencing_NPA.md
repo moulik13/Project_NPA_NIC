@@ -15,7 +15,7 @@
 3. No. of crops in a one crop year (MONO_cropping , DOUBLE_cropping , MULTI_cropping)
 4. According to farming (traditional_farming , specialized farming , commercial farming , mixed farming)   **(ToF)**
 
-### use of **Raster** as Thematic map
+### Use of **Raster** as Thematic map
 Thematic map
 A thematic map is used to classify a geographical area. Each zone is associated with a particular class sharing some characteristics. For example, we can classify an agricultural area according to the type of plantations. Rasters are perfect for this task because each cell can store the integer value representing the class to which the pixel associated area belongs.
 
