@@ -20,7 +20,19 @@ How to Detect **Overfitting** : There is a method called **K-fold cross validati
 
 
 4. stepwise Regression 
-* there are two types of stepwise regression **forword Selection & backword ellimination**
+there are two types of stepwise regression **forword Selection & backword ellimination**, Stepwise Regression And Other Regression Models?
+Stepwise regression is different from other regression methods because it automatically selects the most important variables for the model. Other regression methods, such as ordinary least squares (OLS) and least absolute shrinkage and selection operator (LASSO), require the data scientist or analyst to manually select the variables for the model.
+
+The advantage of stepwise regression is that it can save time and effort for the data scientist or analyst, and it can also improve the model’s performance by reducing the number of variables and eliminating any unnecessary or irrelevant variables. The disadvantage is that it may not always select the best model, and it can be sensitive to the order in which the variables are added or removed.
+
+Overall, stepwise regression is a useful method for model selection, but it should be used carefully and in combination with other regression methods to ensure that the best model is selected.
+
+Difference between stepwise regression and Linear regression
+Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. In other words, it is a method for predicting a response (or dependent variable) based on one or more predictor variables.
+
+Stepwise regression is a method for building a regression model by adding or removing predictors in a step-by-step fashion. The goal of stepwise regression is to identify the subset of predictors that provides the best predictive performance for the response variable. This is done by starting with an empty model and iteratively adding or removing predictors based on the strength of their relationship with the response variable.
+
+In summary, linear regression is a method for modeling the relationship between a response and one or more predictor variables, while stepwise regression is a method for building a regression model by iteratively adding or removing predictors.
 
 5. Decision tree Regression 
 6. Random forest Regression 
