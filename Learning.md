@@ -20,6 +20,8 @@ How to Detect **Overfitting** : There is a method called **K-fold cross validati
 
 
 4. stepwise Regression 
+* there are two types of stepwise regression **forword Selection & backword ellimination**
+
 5. Decision tree Regression 
 6. Random forest Regression 
 7. Support vector Regression 
