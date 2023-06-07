@@ -27,3 +27,6 @@ How to Detect **Overfitting** : There is a method called **K-fold cross validati
 9. lasso Regression 
 10. ElasticNet Regression
 11. Bayesian Linear Regression  
+
+## logistic Regression 
+https://www.analyticsvidhya.com/blog/2022/02/implementing-logistic-regression-from-scratch-using-python/
