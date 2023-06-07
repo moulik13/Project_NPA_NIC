@@ -1,4 +1,4 @@
-# Project_NPA_NIC
+# Project_NPA_NIC   
 2 months internship at National informatic center (NIC)
 
 ## NPA prediction model on an INDIVIDUAL: Problem statement 
@@ -19,4 +19,5 @@ This score will tell the probability that how much percentage a person will beco
 1. **IDE**:Google colab
 2. **Packages**:Numpy,Pandas,faker
 3. **Referring Article** https://www.ijbmi.org/papers/Vol(2)1/Version_1/D212638.pdf
+4. Unsupervised learning can be used to find the hidden insight. Clustering and Association Algorithms are part of unsupervised learning.
  
