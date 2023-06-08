@@ -44,3 +44,11 @@ In summary, linear regression is a method for modeling the relationship between 
 
 ## logistic Regression 
 https://www.analyticsvidhya.com/blog/2022/02/implementing-logistic-regression-from-scratch-using-python/
+
+
+## 08/06/23 Task
+1. creating a custom table of features i have listed 
+2. performing all regression models on them one by one by plotting graphs
+3. finding accuracy on them  
+
+
